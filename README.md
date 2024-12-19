@@ -8,7 +8,7 @@
 ## Posts
 
 - Anyone can view posts
-- Anyon can complete the contact form
+- Anyone can complete the contact form
 - Logged in users can create a new post
 - Logged in users can edit their posts
 - Logged in users can delete their posts
